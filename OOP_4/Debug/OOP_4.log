@@ -1,0 +1,21 @@
+﻿  ForeignWorker.cpp
+D:\qf\OOP_4\OOP_4\Support_Classes.cpp(43,26): warning C4018: >: несоответствие типов со знаком и без знака
+  Human.cpp
+D:\qf\OOP_4\OOP_4\Support_Classes.cpp(43,26): warning C4018: >: несоответствие типов со знаком и без знака
+  main.cpp
+D:\qf\OOP_4\OOP_4\Support_Classes.cpp(43,26): warning C4018: >: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(147,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(187,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(201,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(203,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(206,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(227,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(263,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\qf\OOP_4\OOP_4\main.cpp(325,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Support_Classes.cpp
+D:\qf\OOP_4\OOP_4\Support_Classes.cpp(43,26): warning C4018: >: несоответствие типов со знаком и без знака
+  Worker.cpp
+D:\qf\OOP_4\OOP_4\Support_Classes.cpp(43,26): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+  OOP_4.vcxproj -> D:\qf\OOP_4\Debug\OOP_4.exe
